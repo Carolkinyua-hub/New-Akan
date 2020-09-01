@@ -1,18 +1,11 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
-    background-repeat: no-repeat;
-    background-image: url(../images/ghana-2363097_1280\ \(4\).png);
-    background-color: lawngreen;
-   background-attachment: fixed;
     text-align: center;
     font-size: 40px;
-    background-position-y: top;
-    background-position-x: left;
-    background-blend-mode: saturation;
-   
+    
 }
 
-form{
+/* form{
     display: inline;
-}
+} */
 
