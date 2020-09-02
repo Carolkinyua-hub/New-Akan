@@ -1,20 +1,14 @@
 //back end logic//
 
-
-
-
-//front end logic//
 function submit(event) {
     event.preventDefault();
-    console.log("Form is submitted");
-    let year = document.querySelector().value;
-    let month = document.querySelector().value;
-    let day = document.querySelector().value;
-    console.log({ year });
-    console.log({ month });
-    console.log({ day });
-
+    var dob = document.querySelector("#birthdate").value
+    console.log("dob");
 };
+
+
+
+
 
 
 
