@@ -11,16 +11,16 @@
 //front-end logic//
 
 
-window.addEventListener("DOMcontentLoaded"), (event) => {
-    console.log("DOM fully loaded and parsed");
-}
+// window.addEventListener("DOMcontentLoaded"), (event) => {
+//     console.log("DOM fully loaded and parsed");
+// }
 //create variable for form element=document.querySelector("elementid")
 function submit(event) {
     let myForm = document.querySelector("#form");
     myForm.addEventListener("submit");
     event.preventDefault();
-    var d = document.querySelector("#birthdate").value
-    console.log("dob");
+    // var d = document.querySelector("#birthdate").value
+    // console.log("dob");
 };
 
 
